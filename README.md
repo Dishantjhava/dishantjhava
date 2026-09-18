@@ -180,21 +180,15 @@ I am a Software Engineer focused on **Full-Stack Development (MERN & Next.js)** 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dishantjhava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=dishantjhava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" height="195" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantjhava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishantjhava&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="195" alt="Top Languages Donut" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantjhava&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b35&currStreakLabel=ffffff" width="700"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dishantjhava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" width="900"/>
+<img src="https://streak-stats.demolab.com/?user=dishantjhava&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="700" alt="Streak Stats" />
 
 </div>
 
@@ -204,23 +198,25 @@ I am a Software Engineer focused on **Full-Stack Development (MERN & Next.js)** 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishantjhava)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishantjava06690@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dishantjhava)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dishantjhava)
+<!-- Animated collaboration banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=Let's+connect+and+collaborate!+%F0%9F%A4%9D;Open+for+Full-Stack+%26+QA+roles;Drop+a+message+or+reach+out+anytime!" alt="Typing banner" />
+<br/><br/>
+<a href="https://www.linkedin.com/in/dishantjhava" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=shake&size=48" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:dishantjava06690@gmail.com" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&animation=shake&size=48" width="48" height="48" alt="Gmail" title="Gmail" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/dishantjhava" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&animation=shake&size=48" width="48" height="48" alt="LeetCode" title="LeetCode" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/dishantjhava" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=geeksforgeeks&animation=shake&size=48" width="48" height="48" alt="GeeksforGeeks" title="GeeksforGeeks" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dishantjhava" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&animation=shake&size=48&color=a855f7" width="48" height="48" alt="GitHub" title="GitHub" />
+</a>
 
-</div>
-
-<br/>
-
-<!-- Animated social icons -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60" title="Twitter" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="60" title="LinkedIn" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="60" title="Instagram" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" title="YouTube" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" title="GitHub" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" title="Discord" />
 </div>
 
 ---
