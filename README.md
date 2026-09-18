@@ -68,7 +68,7 @@ I am a Software Engineer focused on **Full-Stack Development (MERN & Next.js)** 
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23a855f7" width="22" height="22" align="absmiddle" /> &nbsp;Tech Stack & Engineering Arsenal
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%23a855f7" width="20" height="20" align="absmiddle" /> &nbsp;Tech Stack & Engineering Arsenal
 
 <div align="center">
 
@@ -176,7 +176,7 @@ I am a Software Engineer focused on **Full-Stack Development (MERN & Next.js)** 
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23a855f7" width="22" height="22" align="absmiddle" /> &nbsp;GitHub Stats
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23a855f7" width="20" height="20" align="absmiddle" /> &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -194,7 +194,7 @@ I am a Software Engineer focused on **Full-Stack Development (MERN & Next.js)** 
 
 ---
 
-## <img src="https://api.iconify.design/lucide:send.svg?color=%23a855f7" width="22" height="22" align="absmiddle" /> &nbsp;Connect with Me
+## <img src="https://api.iconify.design/lucide:send.svg?color=%23a855f7" width="20" height="20" align="absmiddle" /> &nbsp;Connect with Me 
 
 <div align="center">
 
@@ -227,8 +227,5 @@ I am a Software Engineer focused on **Full-Stack Development (MERN & Next.js)** 
 <div align="center">
 
 > *"Code is not just syntax — it's the bridge between ideas and reality."*
-
-<!-- Tech stack floating animation -->
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Tech Stack Floating" />
 
 </div>
